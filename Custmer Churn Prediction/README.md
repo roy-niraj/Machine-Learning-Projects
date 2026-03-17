@@ -8,4 +8,11 @@ Customer churn is a major problem in telecom and service-based companies. This p
 
 The application takes user inputs like tenure, contract type, charges, and other customer details to make predictions.
 
+## Features
+
+- Predict customer churn (Yes/No)
+- User-friendly web interface
+- Real-time prediction using ML model
+- Business tips based on prediction
+- Clean UI with custom styling
 
