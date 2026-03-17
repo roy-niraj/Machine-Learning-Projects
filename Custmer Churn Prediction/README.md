@@ -16,3 +16,10 @@ The application takes user inputs like tenure, contract type, charges, and other
 - Business tips based on prediction
 - Clean UI with custom styling
 
+##  Tech Stack
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Streamlit
