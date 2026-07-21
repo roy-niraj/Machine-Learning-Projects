@@ -1,0 +1,6 @@
+{
+  "name": "Spam Guard",
+  "description": "An interactive email phishing and spam filter built with an in-browser TF-IDF vectorizer and Multinomial Naive Bayes classifier. Features real-time probability breakdown, trigger-word highlighting, editable datasets, and a phishing simulator game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
