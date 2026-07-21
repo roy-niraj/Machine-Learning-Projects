@@ -1,0 +1,6 @@
+{
+  "name": "Predictive Housing Engine",
+  "description": "A regression pipeline utilizing Scikit-Learn Gradient Boosting to predict regional real estate pricing based on macroeconomic features and geographic indicators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
