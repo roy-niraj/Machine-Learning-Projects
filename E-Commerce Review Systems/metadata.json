@@ -1,0 +1,6 @@
+{
+  "name": "Review Sentiment Classifier",
+  "description": "An e-commerce review sentiment classifier featuring an interactive TensorFlow.js LSTM neural network model and real-time customer satisfaction analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
